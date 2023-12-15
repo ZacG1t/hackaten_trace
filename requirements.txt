@@ -1,0 +1,9 @@
+streamlit 
+PIL 
+io
+base64
+numpy 
+torch 
+torchvision
+platform 
+os 
