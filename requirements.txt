@@ -1,7 +1,5 @@
 streamlit 
 Pillow
-io
-base64
 numpy 
 torch 
 torchvision
